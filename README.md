@@ -19,7 +19,7 @@ The project is implemented in a Python notebook and includes the following steps
 ## How to Run
 
 1.  Clone the repository.
-2.  Ensure you have the necessary libraries installed (pandas, numpy, scikit-learn, matplotlib).
+2.  Ensure you have the necessary libraries installed (pandas, numpy, scikit-learn).
 3.  Open and run the Python notebook.
 
 ## Dependencies
@@ -27,7 +27,6 @@ The project is implemented in a Python notebook and includes the following steps
 -   pandas
 -   numpy
 -   scikit-learn
--   matplotlib
 
 ## Results
 
@@ -37,5 +36,4 @@ The model achieves an accuracy of approximately [Insert Training Accuracy Here]%
 
 -   Experiment with other classification algorithms (e.g., Support Vector Machines, Random Forests).
 -   Perform hyperparameter tuning to optimize model performance.
--   Implement cross-validation for more robust evaluation.
--   Explore feature engineering techniques.
+-   Increase train and test datacases
