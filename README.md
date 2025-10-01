@@ -30,7 +30,7 @@ The project is implemented in a Python notebook and includes the following steps
 
 ## Results
 
-The model achieves an accuracy of approximately [Insert Training Accuracy Here]% on the training data and [Insert Test Accuracy Here]% on the test data.
+The model achieves an accuracy of approximately 78 % on the training data and 75 % on the test data.
 
 ## Future Improvements
 
